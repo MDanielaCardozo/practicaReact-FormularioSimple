@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: rgb(83, 30, 133);
+}
+
+form {
+    background-color: rgb(241, 174, 28);
+    padding: 0px 60px;
+    border-radius: 15px;
+}

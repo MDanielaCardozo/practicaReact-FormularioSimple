@@ -1,10 +1,13 @@
-
-
+import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import TituloFormulario from './components/TituloFormulario';
+import Formulario from './components/Formulario';
 
 function App() {
   return (
-    <div className="App">
-      
+    <div>
+      <TituloFormulario></TituloFormulario>
+      <Formulario></Formulario>
     </div>
   );
 }
